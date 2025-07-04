@@ -31,6 +31,13 @@ EDA involved the exploring of Data to answer some questions about the Data sush 
 4. Which products have the highest average ratings? 
 5. What is the average actual price vs the discounted price by category? 
 6. Which products have the highest number of reviews? 
-7. How many products have a discount of 50% or more? 
+7. How many products have a discount of 50% or more?
+   
+### 6. Data Analysis
+Some basic lines of codes or queries or even oher expressions are used. These include some of the following;
+- =IF(P2<1000,"below 1000","1000 or more")
+- =TRIM(LEFT(B2,FIND("^",SUBSTITUTE(B2," ","^",3)&"^")))
+- =K2-I2/K2*100
 
-### 4. Final Task: Dashboard Creation 
+### 7. Result Finding: Dashboard Creation 
+A dashboard was created to summarize the findings
