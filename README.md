@@ -41,3 +41,31 @@ Some basic lines of codes or queries or even oher expressions are used. These in
 
 ### 7. Result Finding: Dashboard Creation 
 A dashboard was created to summarize the findings
+
+![image](https://github.com/user-attachments/assets/a833a1bd-a73f-4307-a0ae-1964f8e42328)
+
+![image](https://github.com/user-attachments/assets/d3b6ef72-2a40-4d8c-aedf-c4aced9a5229)
+
+![image](https://github.com/user-attachments/assets/eced1536-8d91-4458-a8fb-8a590f4f76e9)
+
+![image](https://github.com/user-attachments/assets/93c54726-023d-4ef6-bd0b-a3605b4de641)
+
+![image](https://github.com/user-attachments/assets/b8524b01-e9b8-4731-b457-c4d84bd52146)
+
+![image](https://github.com/user-attachments/assets/f21b687b-a097-4b63-bf30-e73b6dc866a7)
+
+![image](https://github.com/user-attachments/assets/2828b688-d744-466f-8275-30b48fb9de19)
+
+![image](https://github.com/user-attachments/assets/d44037f3-9c4a-4a5d-a6e0-0d9e69561971)
+
+![image](https://github.com/user-attachments/assets/8472c859-1190-4230-88b8-a08c72ef0a3b)
+
+
+
+
+
+
+
+
+
+
